@@ -2,7 +2,7 @@
 
 A book lookup that returns a C# 15 union, next to the same lookup written against a hand-written
 `Result<T, TError>` class. It backs the blog post
-[Replace a Result class with a C# 15 union type](https://gdhami.net/blog/replace-a-result-class-with-a-csharp-15-union-type).
+[Return a C# 15 union type instead of a Result class](https://gdhami.net/blog/return-a-csharp-15-union-type-instead-of-a-result-class).
 
 ## What it proves
 
